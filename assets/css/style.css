@@ -1,4 +1,5 @@
 /* Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Radley:ital@0;1&display=swap');
 
 /* CSS variables */
 
@@ -13,7 +14,11 @@
 
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Radley:ital@0;1&display=swap');
+/* Global styles */
+.section{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
 
 p {
     font-family: var(--primary-font);
@@ -29,6 +34,20 @@ h3 {
 /* Navbar */
 
 #navbar {
+    background-color: var(--dark-color);    
+}
+
+/* Footer */
+
+#footer {
     background-color: var(--dark-color);
+    }
+
+#footer p, i, h3 {
     color: #ffffff;
+}
+
+#footer #socials i{
+    font-size: 2rem;
+    margin-right: 20px;    
 }
