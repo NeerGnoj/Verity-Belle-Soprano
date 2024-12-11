@@ -1,11 +1,34 @@
+/* Google fonts import */
+
+/* CSS variables */
+
+:root {
+    --primary-font: "Jost", sans-serif;
+    --secondary-font: "Radley", serif;
+    --dark-color: #262322; /* Dark brown */
+    --primary-color: #63372c; /* Mid brown */
+    --secondary-color: #c97d60; /* Light brown */
+    --highlight-color: #ffbcb5; /* Pink */
+    --highlight-color-light: #f2e5d7; /* Cream */
+
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Radley:ital@0;1&display=swap');
 
 p {
-    font-family: "Jost", sans-serif;
+    font-family: var(--primary-font);
+    color: var(--dark-color)
 }
 
 h1,
 h2,
 h3 {
-    font-family: "Radley", serif;
+    font-family: var(--secondary-font);
+}
+
+/* Navbar */
+
+#navbar {
+    background-color: var(--dark-color);
+    color: #ffffff;
 }
