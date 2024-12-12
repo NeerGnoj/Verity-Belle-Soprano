@@ -36,6 +36,31 @@ h5 {
 img {
     border-radius: 1%;
 }
+
+/* Button Styling - code lifted from boardwalk games walkthrough project*/
+
+.custom-button-filled {
+    border: 2px solid var(--highlight-color);
+    background-color: var(--highlight-color);
+    color: var(--dark-color);
+}
+
+.custom-button-filled:hover {
+    border: 2px solid var(--secondary-color);
+    background-color: var(--secondary-color);
+}
+
+.custom-button-outline {
+    border: 2px solid var(--highlight-color);
+    padding: 7px 25px;
+    background-color: transparent;
+}
+
+.custom-button-outline:hover {
+    background-color: var(--highlight-color);
+}
+
+
 /* Navbar */
 
 #navbar {
