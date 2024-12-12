@@ -27,15 +27,23 @@ p {
 
 h1,
 h2,
-h3 {
+h3,
+h4,
+h5 {
     font-family: var(--secondary-font);
 }
 
+img {
+    border-radius: 1%;
+}
 /* Navbar */
 
 #navbar {
     background-color: var(--dark-color);    
 }
+
+/* Header */
+
 
 /* Footer */
 
@@ -43,7 +51,7 @@ h3 {
     background-color: var(--dark-color);
     }
 
-#footer p, i, h3 {
+#footer p, #footer i, #footer h3 {
     color: #ffffff;
 }
 
