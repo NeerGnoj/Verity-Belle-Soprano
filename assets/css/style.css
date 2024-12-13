@@ -25,6 +25,11 @@ p {
     color: var(--dark-color)
 }
 
+a {
+    color: var(--secondary-color)
+}
+
+
 h1,
 h2,
 h3,
