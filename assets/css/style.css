@@ -84,3 +84,12 @@ img {
     font-size: 2rem;
     margin-right: 20px;    
 }
+
+/* Media Queries */
+
+/* Override bootstrap container size on x-large screen */
+@media (min-width: 1200px) {
+    .container{
+        max-width: 1000px;
+    }
+}
