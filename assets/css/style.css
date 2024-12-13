@@ -31,6 +31,7 @@ h3,
 h4,
 h5 {
     font-family: var(--secondary-font);
+    color: var(--primary-color);
 }
 
 img {
@@ -58,6 +59,12 @@ img {
 
 .custom-button-outline:hover {
     background-color: var(--highlight-color);
+}
+
+/* Accordion Styling */
+.accordion {
+    --bs-accordion-btn-bg: var(--highlight-color);
+    --bs-accordion-active-bg: var(--highlight-color-light);
 }
 
 
