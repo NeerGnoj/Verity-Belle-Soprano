@@ -103,8 +103,8 @@ Verity Belle Soprano is a personal website showcasing the professional career of
 	-	High-quality photos, videos, and YouTube embeds showcasing performances.
 
 - ### Wireframes
-	- Homepage Wireframe - [View](assets/images/Homepage Wireframe.png)
-	- Mobile Wireframe - [View](assets/images/Mobile Wireframe.png)
+	- Homepage Wireframe - [View](https://neergnoj.github.io/Verity-Belle-Soprano/assets/images/Homepage%20Wireframe.png)
+	- Mobile Wireframe - [View](https://neergnoj.github.io/Verity-Belle-Soprano/assets/images/Mobile%20Wireframe.png)
 
 ## Features
 
