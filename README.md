@@ -110,32 +110,32 @@ Verity Belle Soprano is a personal website showcasing the professional career of
 
 ### Existing Features
 
-- ### Navigation Bar (must-have)
+- ### Navigation Bar
     - Links to Home, About, Videos, and Contact pages.
     - Call-to-action button labeled "Enquire now."
 
-- ### Home Page Sections (must-have)
+- ### Home Page Sections
     - Intro Section: A hero image with a welcome message and biography highlights.
     - Services Section: Cards for singing lessons, workshops, and performances.
     - About Section: Accordion-style sections for biography, qualifications, and experience.
 
-- ### Videos Page (should-have)
+- ### Videos Page
     - Embedded YouTube videos with descriptive captions.
     - Video highlights include concert performances and recitals.
 
-- ### Contact Page (must-have)
+- ### Contact Page
     - Contact Form: Booking form with name, email, phone, subject, and message fields.
     - Success Page: Confirmation message after form submission.
 
-- ### Footer (must-have)
+- ### Footer
     - Social media links for Instagram, Facebook, and YouTube.
     - Contact details: phone number, email, and physical address.
 
 ### Future Features
 
-- ### Testimonials Section (could-have): Client and student reviews.
+- ### Testimonials Section: Client and student reviews.
 
-- ### Newsletter Subscription (could-have): Mailing list for updates and events.
+- ### Newsletter Subscription: Mailing list for updates and events.
 
   
 ## Technologies Used
