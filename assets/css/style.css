@@ -79,9 +79,6 @@ img {
     background-color: var(--dark-color);    
 }
 
-/* Header */
-
-
 /* Footer */
 
 #footer {
@@ -91,6 +88,8 @@ img {
 #footer p, #footer i, #footer h3 {
     color: #ffffff;
 }
+ 
+/* hover transition effects taken from boardwalk-games walkthrough project */
 
 #footer #socials i{
     font-size: 2rem;
@@ -106,7 +105,7 @@ img {
 
 /* Media Queries */
 
-/* Override bootstrap container size on x-large screen */
+/* Override bootstrap container size on x-large screen. Code found on stack overflow thread: https://stackoverflow.com/questions/15884102/bootstrap-how-do-i-change-the-width-of-the-container*/
 @media (min-width: 1200px) {
     .container{
         max-width: 1000px;
