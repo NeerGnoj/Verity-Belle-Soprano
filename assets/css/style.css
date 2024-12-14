@@ -85,9 +85,11 @@ img {
     background-color: var(--dark-color);
     }
 
-#footer p, #footer i, #footer h3 {
+#footer p, #footer i, #footer h3, #footer a {
     color: #ffffff;
+    text-decoration: none;
 }
+
  
 /* hover transition effects taken from boardwalk-games walkthrough project */
 
