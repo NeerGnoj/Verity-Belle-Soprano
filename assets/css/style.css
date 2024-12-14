@@ -48,10 +48,7 @@ img {
 .custom-button-filled {
     border: 2px solid var(--highlight-color);
     background-color: var(--highlight-color);
-    color: var(--dark-color);            
-    -webkit-transition: color 0.3s ease-in-out;
-    -o-transition: color 0.3s ease-in-out;
-    transition: color 0.3s ease-in-out;
+    color: var(--dark-color);
 }
 
 .custom-button-filled:hover {
