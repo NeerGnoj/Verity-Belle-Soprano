@@ -48,7 +48,10 @@ img {
 .custom-button-filled {
     border: 2px solid var(--highlight-color);
     background-color: var(--highlight-color);
-    color: var(--dark-color);
+    color: var(--dark-color);            
+    -webkit-transition: color 0.3s ease-in-out;
+    -o-transition: color 0.3s ease-in-out;
+    transition: color 0.3s ease-in-out;
 }
 
 .custom-button-filled:hover {
@@ -94,7 +97,14 @@ img {
 
 #footer #socials i{
     font-size: 2rem;
-    margin-right: 20px;    
+    margin-right: 20px;        
+    -webkit-transition: color 0.3s ease-in-out;
+    -o-transition: color 0.3s ease-in-out;
+    transition: color 0.3s ease-in-out;
+}
+
+#footer i:hover {
+    color: var(--highlight-color);
 }
 
 /* Media Queries */
