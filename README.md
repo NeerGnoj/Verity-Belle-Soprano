@@ -9,7 +9,7 @@ Verity Belle Soprano is a personal website showcasing the professional career of
 
 ### User Stories
 
-- #### User Story 1: User-Friendly Navigation and Responsive Design (must-have)
+- #### User Story 1: User-Friendly Navigation and Responsive Design
 	- **User Story:** As a First-Time Visitor, I need easy navigation and a responsive design, so I can find information quickly and efficiently without frustration.
 
 	-	#### Acceptance Criteria: 
@@ -20,7 +20,7 @@ Verity Belle Soprano is a personal website showcasing the professional career of
 		-	Apply responsive design principles using Bootstrap.
 		-	Create a clear and accessible navigation structure.
 
--	#### User Story 2: Informative Homepage with Engaging Content (must-have)
+-	#### User Story 2: Informative Homepage with Engaging Content
 	-	**User Story:** As a Potential Client, I want to see relevant and engaging content on the homepage, so I can learn about Verity-Belle's services and performances.
 
 	- #### Acceptance Criteria:
@@ -31,7 +31,7 @@ Verity Belle Soprano is a personal website showcasing the professional career of
 		-	Write and structure content for the homepage.
 		-	Design a clean layout with sections for services and an about section.
 
--	#### User Story 3: Video Portfolio Display (should-have)
+-	#### User Story 3: Video Portfolio Display
 	-	**User Story:** As a Music Director or Event Organizer, I want to watch sample performances, so I can evaluate Verity-Belle's vocal ability and suitability for events.
 		
 	-	#### Acceptance Criteria:
@@ -42,7 +42,7 @@ Verity Belle Soprano is a personal website showcasing the professional career of
 		-	Embed YouTube videos.
 		-	Write and format descriptive captions for each video.
 
--	#### User Story 4: Easy Contact and Inquiry Process (must-have)
+-	#### User Story 4: Easy Contact and Inquiry Process
 	- **User Story:** As a Potential Client or Student, I need an easy way to contact Verity-Belle, so I can book performances or arrange lessons.
 		
 	-	#### Acceptance Criteria:
@@ -53,7 +53,7 @@ Verity Belle Soprano is a personal website showcasing the professional career of
 		-	Create a contact form with validation.
 		-	Display phone, email, and location details in the footer.  
 
--	#### User Story 5: Visual Consistency and Branding (should-have)
+-	#### User Story 5: Visual Consistency and Branding
 	-	**User Story:** As a Visitor, I want the website to have a consistent visual style, so I can enjoy a professional and visually pleasing experience. 
 
 	-	#### Acceptance Criteria:
@@ -64,7 +64,7 @@ Verity Belle Soprano is a personal website showcasing the professional career of
 		-	Define and apply CSS for consistent branding.
 		-	Use high-quality images aligned with the brand aesthetic.
 
--	#### User Story 6: Testimonials Section (could-have)
+-	#### User Story 6: Testimonials Section
 	-	**User Story:** As a Prospective Client, I want to read testimonials from others who have worked with Verity-Belle, so I can feel confident in choosing her services.
 
 	-	#### Acceptance Criteria:
@@ -75,7 +75,7 @@ Verity Belle Soprano is a personal website showcasing the professional career of
 		-	Create a static testimonials page.
 		-	Populate the section with reviews and feedback.
 
--	####	User Story 7: Newsletter Subscription (could-have)
+-	####	User Story 7: Newsletter Subscription
 	-	**User Story:** As a Supporter or Fan, I want to sign up for a newsletter, so I can stay informed about upcoming performances and events.
 
 	-	#### Acceptance Criteria:
@@ -150,3 +150,14 @@ Verity Belle Soprano is a personal website showcasing the professional career of
 - Google Fonts: For custom typography.
 - Git & GitHub: Version control and project hosting.
 - Balsamiq: For wireframing.
+
+### Testing
+- #### Validator Testing
+	- HTML Validation: Passed W3C Markup Validator.
+	- CSS Validation: Passed W3C CSS Validator.
+
+- #### Manual Testing
+	- Navigation Links: Checked on various browsers and devices.
+	- Contact Form: Tested with valid and invalid inputs.
+	- Videos: Verified YouTube embeds work across devices.
+	- Responsiveness: Tested on Chrome, Firefox, Safari, and Edge, as well as smartphones and tablets.
