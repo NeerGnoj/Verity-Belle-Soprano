@@ -103,8 +103,8 @@ Verity Belle Soprano is a personal website showcasing the professional career of
 	-	High-quality photos, videos, and YouTube embeds showcasing performances.
 
 - ### Wireframes
-	- Homepage Wireframe - [View](link)
-	- Mobile Wireframe - [View](link)
+	- Homepage Wireframe - [View](assets/images/Homepage Wireframe.png)
+	- Mobile Wireframe - [View](assets/images/Mobile Wireframe.png)
 
 ## Features
 
@@ -151,13 +151,50 @@ Verity Belle Soprano is a personal website showcasing the professional career of
 - Git & GitHub: Version control and project hosting.
 - Balsamiq: For wireframing.
 
-### Testing
-- #### Validator Testing
-	- HTML Validation: Passed W3C Markup Validator.
-	- CSS Validation: Passed W3C CSS Validator.
+## Testing
+### Validator Testing
+- HTML Validation: Passed [W3C Markup Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fneergnoj.github.io%2FVerity-Belle-Soprano%2F).
+- CSS Validation: Passed [Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fneergnoj.github.io%2FVerity-Belle-Soprano%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
 
-- #### Manual Testing
-	- Navigation Links: Checked on various browsers and devices.
-	- Contact Form: Tested with valid and invalid inputs.
-	- Videos: Verified YouTube embeds work across devices.
-	- Responsiveness: Tested on Chrome, Firefox, Safari, and Edge, as well as smartphones and tablets.
+### Manual Testing
+- Navigation Links: Checked on various browsers and devices.
+- Contact Form: Tested with valid and invalid inputs.
+- Videos: Verified YouTube embeds work across devices.
+- Responsiveness: Tested on Chrome, Firefox, Safari, and Edge, as well as smartphones and tablets.
+
+## Deployment
+
+### GitHub Pages
+This project was deployed on Github using the following steps:
+1. Log in to **GitHub** and locate the [GitHub Repository](https://github.com/NeerGnoj/Verity-Belle-Soprano)
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+4. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+5. Change **Source** to "Deploy from a branch".
+6. Under branch click **Save**.
+7. Go back to the **Code** tab. Wait for the build to finish and refresh your repo.
+8. On the right hand side, in the **Environments** section, click on "github-pages".
+
+The live project link: https://neergnoj.github.io/Verity-Belle-Soprano/
+
+## Credits
+
+### Code
+- Bootstrap 5.3: Used for responsive design, Bootstrap grid system, Navbar and Accordion elements.
+- Font Awesome: Icons for footer.
+- YouTube Embeds: Official YouTube embed tool.
+- Code Institue: Code copied from walkthrough projects for button styling, link hover effects and other styling.
+- Stack Overflow: Code used to override container size on xl screen.
+- Codepen.io: Code used to align card heights.
+
+### Content
+- Written by the developer.
+
+### Media
+- Professional performance photos provided by Verity-Belle.
+- YouTube videos embedded with permission.
+
+### Acknowledgements
+
+Thanks to code institute for the project tutorials and to my mentor for guidance.
+
+Community support from online forums and tutorials.
